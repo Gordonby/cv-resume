@@ -11,6 +11,7 @@ A verified list of badges from Microsoft, Scaled Agile and others
 
 ### Microsoft Exam/Certification Transcript
 My full history of Microsoft exams, going back to 2005... Ah, it was a good year.
+
 Use TranscriptId *832688* and Access Code *gordonmcpaccess*
 [https://mcp.microsoft.com/Anonymous/Transcript/Validate](https://mcp.microsoft.com/Anonymous/Transcript/Validate)
 
