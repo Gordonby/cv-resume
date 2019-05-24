@@ -3,7 +3,7 @@ Relinquishing the shackles of word documents, this is my CV.
 
 ### LinkedIn
 Kept up to date with my employment history and certifications.
-https://www.linkedin.com/in/gordonbyers/
+[https://www.linkedin.com/in/gordonbyers/](https://www.linkedin.com/in/gordonbyers/)
 
 ### Your Acclaim
 A verified list of badges from Microsoft, Scaled Agile and others
