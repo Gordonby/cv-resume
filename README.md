@@ -2,7 +2,7 @@
 Relinquishing the shackles of word documents, this is my CV.
 
 ### LinkedIn
-Kept up to date with my employment history and certifications.
+Kept up to date with my employment history, awards, recommendations, certifications and media of me presenting at user groups, webinars etc!
 [https://www.linkedin.com/in/gordonbyers/](https://www.linkedin.com/in/gordonbyers/)
 
 ### Your Acclaim
