@@ -1,4 +1,4 @@
-## Welcome to my CV/Resume
+## CV/Resume - Gordon Byers
 Relinquishing the shackles of word documents, this is my CV.
 
 ### LinkedIn
